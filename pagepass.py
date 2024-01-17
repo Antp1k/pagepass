@@ -7,7 +7,7 @@ from termcolor import colored as clr
 # This tool is used to bypass pages that give 401/403 statuscode. This is done, by trying to connect to the page with a number of headers.
 
 ### BANNER
-print("lol")
+print("")
 
 ### PARSER
 p = argparse.ArgumentParser()
